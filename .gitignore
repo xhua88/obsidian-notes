@@ -1,0 +1,12 @@
+# Obsidian 工作区文件（每台设备不同，不纳入版本管理）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian 回收站
+.trash/

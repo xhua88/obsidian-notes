@@ -3,6 +3,9 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache
 
+# 插件程序文件（体积大且可随时重装，只同步笔记本身）
+.obsidian/plugins/
+
 # 系统垃圾文件
 .DS_Store
 Thumbs.db
